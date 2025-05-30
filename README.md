@@ -89,7 +89,6 @@ We welcome contributions! To get started:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## 📬 Contact
 
